@@ -52,8 +52,8 @@ This is a NestJS-based REST API for authentication and user management, which in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/akhtarnasim1990/nestjs-login-app.git
+   cd nestjs-login-app
    ```
 
 2. Install dependencies:
